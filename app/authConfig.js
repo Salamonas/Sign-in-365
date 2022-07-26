@@ -7,7 +7,7 @@ const msalConfig = {
     auth: {
         clientId: "94db86f1-3776-4fb4-b2cf-477107df8f1c",
         authority: "https://login.microsoftonline.com/common",
-        redirectUri: "http://localhost:3000/",
+        redirectUri: "https://salamonas.github.io/Sign-in-365/app/",
     },
     cache: {
         cacheLocation: "sessionStorage", // This configures where your cache will be stored
